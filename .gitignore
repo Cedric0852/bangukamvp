@@ -1,0 +1,10 @@
+.env
+.venv
+__pycashe__
+.envi
+__pycache__
+*__pycache__
+
+base64.py
+front.py
+set.py
